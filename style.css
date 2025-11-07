@@ -1,0 +1,19 @@
+body {
+
+}
+
+.hero-image {
+    background-image: url(Heavens_Gate_and_The_Pink_Panther.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    Position: relative;
+}
+
+.hero-text {
+    font-family: 'Arial', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
